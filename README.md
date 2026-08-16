@@ -12,7 +12,6 @@ Computer Science undergraduate focused on building and deploying practical AI/ML
 
 </div>
 
----
 
 ## About Me
 
